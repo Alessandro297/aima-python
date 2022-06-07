@@ -6,7 +6,7 @@ from tkinter import *
 
 from search import astar_search, EightPuzzle
 
-# sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+#sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 root = Tk()
 
